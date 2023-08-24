@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I love to go to the gym and play sports!
+### I can't wait to expand my computer science knowledge!
 
 <!--
 **cadendye/cadendye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
