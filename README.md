@@ -1,6 +1,6 @@
-### Hello, my name is Caden Dye 👋
-### I love to go to the gym and play sports 💪⚽️
-### I can't wait to expand my computer science knowledge 🏫👨‍💻
+### Hello, my name is Caden Dye. 
+### I am currently looking for a job in software development.
+### I am a very determined and passionate student who loves to learn new things.
 <!--
 **cadendye/cadendye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
